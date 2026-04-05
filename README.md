@@ -1,3 +1,5 @@
+> 🌐 Ce README est aussi disponible en [français](./README.fr.md).
+
 # Bonjour, I am *Rift*.
 
 ## About me
@@ -5,14 +7,14 @@ As you probably guessed from the "Bonjour", I am a French developer. I call myse
 
 I have been passionate about programming since a very young age, but I actually started coding at 16. I am also fascinated by languages and linguistics as a science. I enjoy reading and playing video games, and I sometimes make videos in my spare time (which means not very often).
 
-Before you ask... No, I do not play *League of Legends*. The name *Rift* comes from a video game I used to play when I was younger, called *Dauntless*, where I loved hunting a creature named the *Riftstalker*. My username evolved from *Rifthunter* to *Rift* for simplicity. *Propzonzon* comes from the nickname I used to give my now-deceased cat, Ronron. *Noah* is... well, you guessed it ; My name.
+Before you ask... No, I do not play *League of Legends*. The name *Rift* comes from a video game I used to play when I was younger, called *Dauntless*, where I loved hunting a creature named the *Riftstalker*. My username evolved from *Rifthunter* to *Rift* for simplicity. *Propzonzon* comes from the nickname I used to give my now-deceased cat, *Ronron*. *Noah* is... well, you guessed it ; My name.
 
 ## My projects
 ### Main projects
 Here are the projects I am currently working on or maintaining.
 
 - [*Taxonomina*](https://github.com/NoahBoos/Taxonomina) — A multilingual dictionary-making software.
-- [*Essor*](https://github.com/rifts-minecraft-laboratory/Essor-NeoForge) — A *Minecraft* mod that changes Minecraft progression by adding a leveling system to the gear.
+- [*Essor*](https://github.com/rifts-minecraft-laboratory/Essor-NeoForge) — A *Minecraft* mod that changes *Minecraft* progression by adding a leveling system to the gear.
 - [*Esther*](https://github.com/NoahBoos/Esther) — **Upcoming** — A command-line interface aiming to improve templating and project scaffolding.
 
 ### *GitHub Organizations*
