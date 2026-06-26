@@ -15,7 +15,6 @@ Here are the projects I am currently working on or maintaining.
 
 - [*Taxonomina*](https://github.com/NoahBoos/Taxonomina) — A multilingual dictionary-making software.
 - [*Essor*](https://github.com/rifts-minecraft-laboratory/Essor-NeoForge) — A *Minecraft* mod that changes *Minecraft* progression by adding a leveling system to the gear.
-- [*Esther*](https://github.com/NoahBoos/Esther) — **Upcoming** — A command-line interface aiming to improve templating and project scaffolding.
 
 ### *GitHub Organizations*
 I organize my work across my profile and several *GitHub Organizations*. The list below describes the organizations I own and what you can find on their dedicated pages. In addition to repositories, you will find more information about each organization on its own page.
