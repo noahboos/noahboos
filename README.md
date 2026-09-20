@@ -14,7 +14,7 @@ Before you ask... No, I do not play *League of Legends*. The name *Rift* comes f
 Here are the projects I am currently working on or maintaining.
 
 - [*Taxonomina*](https://github.com/NoahBoos/Taxonomina) — A multilingual dictionary-making software.
-- [*Essor*](https://github.com/rifts-minecraft-laboratory/Essor-NeoForge) — A *Minecraft* mod that changes *Minecraft* progression by adding a leveling system to the gear.
+- [*Essor*](https://github.com/rifts-minecraft-laboratory/fabric-essor-revamped) — A *Minecraft* mod that changes *Minecraft* progression by adding a leveling system to the gear.
 
 ### *GitHub Organizations*
 I organize my work across my profile and several *GitHub Organizations*. The list below describes the organizations I own and what you can find on their dedicated pages. In addition to repositories, you will find more information about each organization on its own page.
