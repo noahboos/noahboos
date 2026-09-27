@@ -13,8 +13,8 @@ Avant que tu ne me le demandes, non, je ne joue pas à *League of Legends*. Le p
 ### Projets principaux
 Voici les projets sur lesquels je travaille en ce moment ou que je maintiens.
 
+- [*Riftorium*](https://github.com/NoahBoos/Riftorium) — Mon site personnel, multilingue et multi-contenus. Vous y trouverez des articles que j'ai écrit, des projets auxquels j'ai participé et mon CV.
 - [*Taxonomina*](https://github.com/NoahBoos/Taxonomina) — Un logiciel de création de dictionnaires multilingues.
-- [*Essor*](https://github.com/rifts-minecraft-laboratory/Essor-NeoForge) — Un mod *Minecraft* qui change la manière de progresser dans le jeu grâce à un système d’amélioration des équipements par niveau.
 
 ### *Organisations GitHub*
 J’organise mes différents travaux à travers mon profil et plusieurs *organisations GitHub*. La liste ci-dessous décrit ces organisations et ce que tu trouveras sur leurs pages respectives. En plus des dépôts présents sur leurs pages, tu trouveras davantage d’informations sur leurs objectifs et leurs raisons d’être.
